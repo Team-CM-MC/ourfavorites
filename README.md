@@ -1,1 +1,2 @@
+We have chosen to use GNU General Public License version 3. The reason why we felt this was the right choice for our repository was we wanted our work to be open source, but we wanted some limitations on its use. We believe in a copyleft license to guarantee it remains free software for all users with the freedom to change and share the works. We considered using the MIT license but felt it had a little too much freedom, including fully allowing use in proprietary software for commercial use.  
 # ourfavorites
